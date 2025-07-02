@@ -119,6 +119,7 @@ Ready to turn your data into business value? Reach out to DS Stream experts:
 - LinkedIn: [DS Stream Company Page](https://www.linkedin.com/company/dsstream/)
 - [Explore Our Services](https://www.dsstream.com/services)
 - [View Our Projects](https://www.dsstream.com/projects)
+- [Data Engineering](https://www.dsstream.com/services/data-engineering)
 
 **Headquarters:**  
 Warsaw, Poland | Wilmington, Delaware, USA
