@@ -22,7 +22,7 @@ A simple and secure Python project that connects to the [OpenAI API](https://pla
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/data-ai-cli-tool.git
+   git clone https://github.com/andrzejga1/data-ai-cli-tool.git
    cd data-ai-cli-tool
    ```
 
